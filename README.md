@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipedoDay&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipedoDay&layout=compact&langs_count=16&theme=dark)
 
 <div>
