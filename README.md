@@ -17,6 +17,3 @@
   <img align="right" alt="maydai" src="https://media.discordapp.net/attachments/919381853444661261/943274031271002192/me.gif?width=473&height=473">
 </div>
 
-<div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
